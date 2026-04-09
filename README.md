@@ -1,6 +1,6 @@
 # fm2op (a humble Norns AI-assisted synth engine) v1.0.0
 
-**fm2op** is an eight-voice, two-operator FM instrument for Norns, inspired by classic FM hardware. Polyphony is enforced in the SuperCollider engine (oldest-voice stealing when all eight slots are in use). In addition to the basic 2op structure it includes an FX page with a few tasty additions including a drive circuit, low pass filter and redux with an end of chain chorus.
+**fm2op** is an eight-voice, two-operator FM instrument for Norns, inspired by classic FM hardware. In addition to the basic 2op structure it includes an FX page with a few tasty additions including a drive circuit, low pass filter and redux with an end of chain chorus.
 
 **Included:** MIDI input, preset browsing and loading, carrier/modulator ADSR pages, FM ratio/depth/feedback, and an FX page (drive, tone filter, redux, chorus).
 
